@@ -38,8 +38,9 @@ export default function Home() {
 
       <footer className="footer">
         <div className="footer-inner">
-          <span className="footer-text">Happy Birthday from</span>
+          <span className="footer-text">Best wishes from</span>
           <img src="/ov1.png" alt="from" className="footer-logo" />
+          <span className="footer-text">team</span>
         </div>
       </footer>
     </main>
