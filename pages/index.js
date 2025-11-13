@@ -24,10 +24,9 @@ export default function Home() {
         </div>
         <div className="card-right">
           <h1 className="title">Happy Birthday!</h1>
-          <p className="subtitle">Wishing you a day filled with love, laughter, and cake.</p>
 
           <div className="wish"> 
-            <p className="wish-text">May your year ahead be as bright as the candles on your cake and as sweet as every bite. Enjoy your special day!</p>
+            <p className="wish-text">Wishing you a year of good health and steady success</p>
           </div>
 
           {/* <div className="meta">
@@ -40,7 +39,7 @@ export default function Home() {
       <footer className="footer">
         <div className="footer-inner">
           <span className="footer-text">Happy Birthday from</span>
-          <img src="/overleap.png" alt="from" className="footer-logo" />
+          <img src="/ov1.png" alt="from" className="footer-logo" />
         </div>
       </footer>
     </main>
