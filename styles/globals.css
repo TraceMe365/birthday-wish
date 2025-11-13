@@ -49,7 +49,9 @@ body{
 .cta:hover{transform:translateY(-2px); box-shadow:0 10px 24px rgba(123,215,255,0.16)}
 
 @media (max-width:720px){
-  .card{flex-direction:column; padding:18px}
+  body{padding:18px}
+  .page-root{padding:0 12px}
+  .card{flex-direction:column; padding:18px; width:100%}
   .card-left{width:100%}
   .balloons{width:140px;height:140px}
   .title{font-size:28px}
